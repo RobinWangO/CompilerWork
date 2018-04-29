@@ -1,0 +1,13 @@
+/* this is a test ÊÇÂğ*/
+/* also
+   a
+   test */
+// test
+
+int main() {
+	int cat = 2;
+	int dog = 2;
+	int pig = 2/2;
+	printf("Hello world! return...");
+	return 0;
+}
